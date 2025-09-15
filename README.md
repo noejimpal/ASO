@@ -1,5 +1,3 @@
-# ASO
-Repositorio para la asignatura de ASO de 2ºASIX
 # Repositorio ASO
 
 Este repositorio contiene los scripts y ejercicios realizados en el módulo **Administración de Sistemas Operativos (ASO)**.
