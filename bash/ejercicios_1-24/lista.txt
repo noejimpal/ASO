@@ -1,0 +1,6 @@
+
+perro
+gato
+rojo
+azul
+
