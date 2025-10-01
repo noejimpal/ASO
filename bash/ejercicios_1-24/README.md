@@ -62,3 +62,15 @@ Crea un script que pida una contraseña al usuario y la compare con una previame
 
 ### Ejercicio 20
 Realiza un script que pida una nota numérica y muestre su equivalencia en calificación textual (Suspenso, Aprobado, Notable, Sobresaliente).
+
+### Ejercicio 21
+Escribe un script que muestre el contenido de un directorio indicado por el usuario y el número de archivos que contiene.
+
+### Ejercicio 22
+Crea un script que copie todos los archivos de un directorio a otro pasado como parámetro.
+
+### Ejercicio 23
+Diseña un script que reciba un nombre de usuario y muestre si existe en el sistema.
+
+### Ejercicio 24
+Escribe un script que comprima en un archivo `.tar.gz` todos los archivos `.txt` de un directorio dado.
