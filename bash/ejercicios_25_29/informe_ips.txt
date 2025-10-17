@@ -1,0 +1,17 @@
+Informe de IPs libres/ocupadas - dom 12 oct 2025 19:37:16 CEST
+Interfaz: wlp5s0
+IP/Prefijo: 192.168.1.215/24
+Red: 192.168.1.0/24
+Broadcast: 192.168.1.255
+Máscara de subred: 255.255.255.0
+
+IP;Estado
+192.168.1.1;ocupada
+192.168.1.2;libre
+192.168.1.3;libre
+192.168.1.4;libre
+192.168.1.5;libre
+192.168.1.6;libre
+192.168.1.7;libre
+192.168.1.8;libre
+192.168.1.9;libre
